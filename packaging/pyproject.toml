@@ -1,0 +1,24 @@
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
+
+[project]
+name = "tools_fernandoGitHub"
+version = "0.0.1"
+authors = [
+  { name="Fernando Funtowicz", email="fernando.funtowicz@gmail.com" },
+]
+description = "A package including Setup and Transfer related tools to use in Colab"
+readme = "README.md"
+license = { file="LICENSE" }
+requires-python = ">=3.7"
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "License :: OSI Approved :: MIT License",
+    "Operating System :: OS Independent",
+]
+
+[project.urls]
+"Homepage" = "https://raw.githubusercontent.com/fernandoGitHub/Tools/main/ff_setup.py"
+"Bug Tracker" = "https://raw.githubusercontent.com/fernandoGitHub/Tools/main/README.md"
+
