@@ -4,7 +4,7 @@ build-backend = "hatchling.build"
 
 [project]
 name = "tools_fernandoGitHub"
-version = "0.0.1"
+version = "0.0.2"
 authors = [
   { name="Fernando Funtowicz", email="fernando.funtowicz@gmail.com" },
 ]
@@ -17,8 +17,4 @@ classifiers = [
     "License :: OSI Approved :: MIT License",
     "Operating System :: OS Independent",
 ]
-
-[project.urls]
-"Homepage" = "https://raw.githubusercontent.com/fernandoGitHub/Tools/main/ff_setup.py"
-"Bug Tracker" = "https://raw.githubusercontent.com/fernandoGitHub/Tools/main/README.md"
 
